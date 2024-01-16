@@ -5,7 +5,6 @@ public class Car {
     private String name;
     private Integer age;
     private Integer capa;
-    String test2;
 
     private Car(String name, Integer age, Integer capa) {
         this.name = name;
